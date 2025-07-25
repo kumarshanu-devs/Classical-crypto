@@ -1,4 +1,4 @@
-# 🔐 Cryptography Basics in Python
+🔐 Cryptography Basics in Python
 
 This repository contains implementations of foundational and modern cryptographic algorithms using Python. It is designed to demonstrate both **core knowledge of classical cryptography** and awareness of **emerging post-quantum cryptographic standards**.
 
