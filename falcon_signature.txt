@@ -1,0 +1,5 @@
+This script demonstrates digital signing and verification using Falcon-512, a post-quantum signature algorithm.
+
+- Algorithm: Falcon-512 (Lattice-based, efficient, NIST finalist)
+- Requires: `pyoqs`
+- Process: Generate keypair -> Sign -> Verify

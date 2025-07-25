@@ -1,0 +1,5 @@
+This script demonstrates digital signing and verification using the Dilithium2 post-quantum algorithm from `pyoqs`.
+
+- Algorithm: Dilithium2 (Lattice-based, NIST finalist)
+- Requires: `pyoqs`
+- Process: Key generation -> Sign -> Verify

@@ -1,0 +1,6 @@
+This script demonstrates RSA digital signing and verification using `pycryptodome`.
+
+Steps:
+1. Generate RSA keys
+2. Sign a message using the private key (PKCS#1 v1.5 with SHA256)
+3. Verify the signature using the public key
