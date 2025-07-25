@@ -1,0 +1,1 @@
+Demonstrates how to hash text using SHA256 and MD5.
