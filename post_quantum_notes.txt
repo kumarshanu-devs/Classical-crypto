@@ -1,0 +1,20 @@
+Post-Quantum Cryptography (PQC)
+-------------------------------
+Post-quantum cryptography refers to cryptographic algorithms that are secure against an attack by a quantum computer.
+Quantum computers are expected to break traditional algorithms such as RSA, DSA, and ECC in the future.
+
+NIST has been running a multi-round competition to standardize post-quantum cryptographic algorithms.
+
+🧪 Key Algorithms (Finalists):
+- KYBER: Key Encapsulation Mechanism (KEM) for secure key exchange
+- DILITHIUM: Lattice-based digital signatures
+- FALCON: Efficient lattice-based signatures
+- SPHINCS+: Hash-based signature scheme
+
+🔧 Libraries & Resources:
+- Open Quantum Safe (liboqs): https://openquantumsafe.org/
+- PQClean: https://github.com/PQClean/PQClean
+- pyoqs (Python bindings for liboqs)
+
+🔐 Goal:
+Provide future-proof security as quantum computing matures.

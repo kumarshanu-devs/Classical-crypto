@@ -1,0 +1,8 @@
+This script demonstrates a post-quantum key encapsulation mechanism using Kyber512 from the Open Quantum Safe project.
+
+- Requires: `pyoqs` (Python bindings for liboqs)
+- Algorithm: Kyber512
+- Process: Key generation -> Encapsulation -> Decapsulation
+
+To install:
+    pip install pyoqs
